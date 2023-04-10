@@ -1,0 +1,17 @@
+.home {
+    display: flex;
+    margin: 0 15vw;
+}
+
+.home--selected-address {
+    width: 100%;
+}
+
+.home__groups {
+    /* flex-grow: 1; */
+    /* width: 450px; */
+}
+
+.home__group {
+    flex-grow: 1;
+}
